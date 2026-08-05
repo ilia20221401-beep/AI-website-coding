@@ -43,7 +43,7 @@ if (!$apiKey) {
     $apiKey = 'sk-your-key-here'; // <-- DELETE this line in production
 }
 
-$apiUrl = 'https://api.bluesminds.com/v1/chat/completions';
+$apiUrl = 'https://api.bluesminds.com/v1';
 $model = 'deepseek-v4-pro'; // or 'gpt-4', etc.
 
 $payload = [
