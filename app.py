@@ -13,8 +13,8 @@ CORS(app)  # allow cross-origin requests from your frontend
 
 # Initialize DeepSeek client (OpenAI-compatible)
 client = OpenAI(
-    api_key=os.getenv("DEEPSEEK_API_KEY"),
-    base_url="https://api.deepseek.com/v1"   # DeepSeek endpoint
+    api_key=os.getenv("sk-PHwj1BwGgpQtZCqT1bu0D47Q3GipH9TS4IPzGsb9mRqNImJt"),
+    base_url="https://api.bluesminds.com"   # DeepSeek endpoint
 )
 
 # System prompt – define the AI's behaviour
