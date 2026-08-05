@@ -37,10 +37,10 @@ if (empty($userMessage)) {
 // $apiKey = 'sk-your-key-here';
 
 // Option B: Read from environment (recommended)
-$apiKey = getenv('BLUESMINDS_API_KEY');
+$apiKey = getenv('sk-PHwj1BwGgpQtZCqT1bu0D47Q3GipH9TS4IPzGsb9mRqNImJt');
 if (!$apiKey) {
     // Fallback – remove after testing
-    $apiKey = 'sk-your-key-here'; // <-- DELETE this line in production
+    $apiKey = 'sk-PHwj1BwGgpQtZCqT1bu0D47Q3GipH9TS4IPzGsb9mRqNImJt'; // <-- DELETE this line in production
 }
 
 $apiUrl = 'https://api.bluesminds.com/v1';
