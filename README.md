@@ -1,1 +1,5 @@
-https://github.com/ilia20221401-beep/AI-website-coding/blob/main/magic_edit#TUFIUmlKWnhNSG8jMSM0OTAwZmUzMDdlZTAxZDdlMzkyMGMzNWNjM2M3OTZhNSMxMzc2IyNUUkFOU0ZPUk1BVElPTl9SRVFVRVNU.jpg?raw=true
+<p align="center">
+  <a href="https://cognitum.one/seed">
+    <img src="assets/ruview-seed.png" alt="RuView - WiFi DensePose" width="100%">
+  </a>
+</p>
