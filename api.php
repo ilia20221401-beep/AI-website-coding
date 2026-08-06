@@ -4,7 +4,7 @@
 // ---------- 1. Configuration ----------
 // Replace this with your actual API key (or set it as an environment variable)
 // For production, use environment variable: $apiKey = getenv('BLUESMINDS_API_KEY');
-$apiKey = 'sk-your-actual-key-here';  // <-- PASTE YOUR KEY HERE
+$apiKey = 'sk-PHwj1BwGgpQtZCqT1bu0D47Q3GipH9TS4IPzGsb9mRqNImJt';  // <-- PASTE YOUR KEY HERE
 
 // BluesMinds endpoint (verify from your dashboard)
 $apiUrl = 'https://api.bluesminds.com/v1/chat/completions';
