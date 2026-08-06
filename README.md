@@ -2,7 +2,7 @@
 an AI python html javascript and css project
 ---
 # Structure
-project files index.html app.py
+project files index.html api.php
 ---
 # Goal
 Improving the code
