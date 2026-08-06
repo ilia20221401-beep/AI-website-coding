@@ -1,1 +1,1 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+_![alt text](https://github.com/ilia20221401-beep/AI-website-coding/blob/main/magic_edit#TUFIUmlKWnhNSG8jMSM0OTAwZmUzMDdlZTAxZDdlMzkyMGMzNWNjM2M3OTZhNSMxMzc2IyNUUkFOU0ZPUk1BVElPTl9SRVFVRVNU.jpg?raw=true)
