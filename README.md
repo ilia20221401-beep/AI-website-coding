@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://cognitum.one/seed">
-    <img src="assets/ruview-seed.png" alt="RuView - WiFi DensePose" width="100%">
+  <a href="https://github.com/ilia20221401-beep/AI-website-coding/blob/main/">
+    <img src="" alt="pic" width="100%">
   </a>
 </p>
