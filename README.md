@@ -1,8 +1,1 @@
-# AI-website-coding
-an AI python html javascript and css project
----
-# Structure
-project files index.html api.php
----
-# Goal
-Improving the code
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
